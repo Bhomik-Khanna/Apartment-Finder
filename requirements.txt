@@ -1,0 +1,6 @@
+
+streamlit
+matplotlib
+requests
+python-dotenv
+urllib3
