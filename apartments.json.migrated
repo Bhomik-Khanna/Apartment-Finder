@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Royal Residency 3BHK",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 70000,
+    "bedrooms": 3,
+    "notes": "Park view, semi-furnished, 7th floor",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "San Marino Apartments 3BHK",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 47000,
+    "bedrooms": 3,
+    "notes": "Semi-furnished, modular kitchen",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Ayyachi Apartment 3BHK",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 46000,
+    "bedrooms": 3,
+    "notes": "Semi-furnished, 1500 sq ft",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Pratap Yadav Nest 2BHK",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 42000,
+    "bedrooms": 2,
+    "notes": "Fully furnished, 1400 sq ft",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Budget 3BHK Sector 45",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 50000,
+    "bedrooms": 3,
+    "notes": "1650 sq ft, garden view, semi-furnished",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Apex Flats 1BHK",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 18000,
+    "bedrooms": 1,
+    "notes": "Furnished, 500 sq ft, park view",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Huda Plot 2BHK",
+    "address": "Sector 45, Gurgaon, Haryana",
+    "rent": 30000,
+    "bedrooms": 2,
+    "notes": "Independent floor",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Sector 46 Budget 2BHK",
+    "address": "Sector 46, Gurgaon, Haryana",
+    "rent": 25000,
+    "bedrooms": 2,
+    "notes": "Near metro station",
+    "commute_minutes": 9.0
+  },
+  {
+    "name": "Sector 46 PG Single Room",
+    "address": "Sector 46, Gurgaon, Haryana",
+    "rent": 9000,
+    "bedrooms": 1,
+    "notes": "Shared society, meals included",
+    "commute_minutes": 9.0
+  },
+  {
+    "name": "Green View Apartments 2BHK",
+    "address": "Sector 46, Gurgaon, Haryana",
+    "rent": 35000,
+    "bedrooms": 2,
+    "notes": "Semi-furnished, lift available",
+    "commute_minutes": 9.0
+  },
+  {
+    "name": "Sector 46 Studio",
+    "address": "Sector 46, Gurgaon, Haryana",
+    "rent": 15000,
+    "bedrooms": 1,
+    "notes": "Compact studio, good for single occupant",
+    "commute_minutes": 9.0
+  },
+  {
+    "name": "DLF Phase Residency 2BHK",
+    "address": "Sector 44, Gurgaon, Haryana",
+    "rent": 38000,
+    "bedrooms": 2,
+    "notes": "Near DLF Cyber Hub",
+    "commute_minutes": 5.4
+  },
+  {
+    "name": "Sector 44 PG Twin Sharing",
+    "address": "Sector 44, Gurgaon, Haryana",
+    "rent": 11000,
+    "bedrooms": 1,
+    "notes": "Twin sharing, wifi included",
+    "commute_minutes": 5.4
+  },
+  {
+    "name": "Heritage Homes 3BHK",
+    "address": "Sector 44, Gurgaon, Haryana",
+    "rent": 62000,
+    "bedrooms": 3,
+    "notes": "Fully furnished, premium society",
+    "commute_minutes": 5.4
+  },
+  {
+    "name": "Sector 47 Independent Floor 2BHK",
+    "address": "Sector 47, Gurgaon, Haryana",
+    "rent": 28000,
+    "bedrooms": 2,
+    "notes": "Independent entry, semi-furnished",
+    "commute_minutes": null
+  },
+  {
+    "name": "Vatika Residency 3BHK",
+    "address": "Sector 47, Gurgaon, Haryana",
+    "rent": 55000,
+    "bedrooms": 3,
+    "notes": "Clubhouse, pool access",
+    "commute_minutes": null
+  },
+  {
+    "name": "Sector 47 Budget 1BHK",
+    "address": "Sector 47, Gurgaon, Haryana",
+    "rent": 14000,
+    "bedrooms": 1,
+    "notes": "Unfurnished, ground floor",
+    "commute_minutes": null
+  },
+  {
+    "name": "Sector 48 PG Single Room",
+    "address": "Sector 48, Gurgaon, Haryana",
+    "rent": 10000,
+    "bedrooms": 1,
+    "notes": "AC room, food included",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Central Park Resorts 2BHK",
+    "address": "Sector 48, Gurgaon, Haryana",
+    "rent": 45000,
+    "bedrooms": 2,
+    "notes": "Premium amenities, gym",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Sector 48 Family Flat 3BHK",
+    "address": "Sector 48, Gurgaon, Haryana",
+    "rent": 58000,
+    "bedrooms": 3,
+    "notes": "Family friendly society",
+    "commute_minutes": 0.0
+  },
+  {
+    "name": "Old Faridabad 2BHK",
+    "address": "Old Faridabad, Faridabad, Haryana",
+    "rent": 16000,
+    "bedrooms": 2,
+    "notes": "Close to railway station, unfurnished",
+    "commute_minutes": 39.7
+  },
+  {
+    "name": "Old Faridabad PG",
+    "address": "Old Faridabad, Faridabad, Haryana",
+    "rent": 7000,
+    "bedrooms": 1,
+    "notes": "Budget PG, shared room",
+    "commute_minutes": 39.7
+  },
+  {
+    "name": "Old Faridabad Studio 1BHK",
+    "address": "Old Faridabad, Faridabad, Haryana",
+    "rent": 9500,
+    "bedrooms": 1,
+    "notes": "Compact, semi-furnished",
+    "commute_minutes": 39.7
+  },
+  {
+    "name": "NIT Faridabad 2BHK",
+    "address": "NIT Faridabad, Faridabad, Haryana",
+    "rent": 13000,
+    "bedrooms": 2,
+    "notes": "Near NIT campus, student-friendly",
+    "commute_minutes": 34.7
+  },
+  {
+    "name": "NIT Faridabad PG Twin Sharing",
+    "address": "NIT Faridabad, Faridabad, Haryana",
+    "rent": 8000,
+    "bedrooms": 1,
+    "notes": "Popular with students",
+    "commute_minutes": 34.7
+  },
+  {
+    "name": "NIT Faridabad 1BHK Furnished",
+    "address": "NIT Faridabad, Faridabad, Haryana",
+    "rent": 12000,
+    "bedrooms": 1,
+    "notes": "Fully furnished, AC",
+    "commute_minutes": 34.7
+  },
+  {
+    "name": "Sector 15 Faridabad 2BHK",
+    "address": "Sector 15 Market, Faridabad, Haryana",
+    "rent": 17000,
+    "bedrooms": 2,
+    "notes": "Established residential area",
+    "commute_minutes": 39.7
+  },
+  {
+    "name": "Sector 15 Faridabad Studio",
+    "address": "Sector 15 Market, Faridabad, Haryana",
+    "rent": 9000,
+    "bedrooms": 1,
+    "notes": "Budget studio",
+    "commute_minutes": 39.7
+  },
+  {
+    "name": "Sector 21 Faridabad 3BHK",
+    "address": "Sector 21C, Faridabad, Haryana",
+    "rent": 22000,
+    "bedrooms": 3,
+    "notes": "Spacious, semi-furnished",
+    "commute_minutes": 37.2
+  },
+  {
+    "name": "Sector 21 Faridabad PG",
+    "address": "Sector 21C, Faridabad, Haryana",
+    "rent": 7500,
+    "bedrooms": 1,
+    "notes": "Shared room",
+    "commute_minutes": 37.2
+  },
+  {
+    "name": "Badkhal 2BHK",
+    "address": "Badkhal, Faridabad, Haryana",
+    "rent": 14500,
+    "bedrooms": 2,
+    "notes": "Near Badkhal lake, peaceful area",
+    "commute_minutes": 35.9
+  },
+  {
+    "name": "Badkhal Studio Flat",
+    "address": "Badkhal, Faridabad, Haryana",
+    "rent": 8500,
+    "bedrooms": 1,
+    "notes": "Compact, furnished",
+    "commute_minutes": 35.9
+  },
+  {
+    "name": "Ballabhgarh 2BHK",
+    "address": "Ballabhgarh, Faridabad, Haryana",
+    "rent": 12000,
+    "bedrooms": 2,
+    "notes": "Budget friendly, unfurnished",
+    "commute_minutes": 44.1
+  },
+  {
+    "name": "Ballabhgarh PG Single",
+    "address": "Ballabhgarh, Faridabad, Haryana",
+    "rent": 6500,
+    "bedrooms": 1,
+    "notes": "Cheapest option, basic amenities",
+    "commute_minutes": 44.1
+  }
+]
